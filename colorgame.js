@@ -44,7 +44,7 @@ function init() {
                 changeColors(pickedColor);
             } else {
                 this.style.backgroundColor = '#232323';
-                messageDisplay.textContent = 'try Again';
+                messageDisplay.textContent = 'Try Again';
             }
         });
     }
